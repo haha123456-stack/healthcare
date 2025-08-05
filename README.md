@@ -1,3 +1,5 @@
+<img width="743" height="840" alt="image" src="https://github.com/user-attachments/assets/7133dc33-1fa2-4f32-80bb-8eda988edbc7" />
+
 字段类型	说明
 姓名	与医疗记录相关的患者姓名
 年龄	患者入院时的年龄（以岁为单位）
